@@ -1,3 +1,5 @@
+import React from 'react';
+import equal from 'fast-deep-equal';
 
 // by @rolangom 05/04/2018
 
